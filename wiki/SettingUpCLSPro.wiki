@@ -2,15 +2,25 @@
 
 = Introduction =
 
+*SPECIAL NOTE:* This is TL;DR material that follows... Just warning the ones that are a bit too lazy on reading too much valuable information.
+
 Setting up your Configuration is easier than you may think here within ISboxer...
 
-*SPECIAL NOTE:* This is TL;DR material that follows... Just warning the ones that are a bit too lazy on reading too much valuable information.
+This configuration is off the famous [http://isboxer.com/wiki/HOWTO:Configure_ISBoxer_like_a_pro HOWTO:Configure ISBoxer like a pro]
 
 ----
 
 = Instructions =
 
-1. Create a new using the Quick Setup Wizard
+1. Create a new Character Set (Team) using the Quick Setup Wizard _(CTRL+Q)_ 
+
+Example of Quick Setup Wizard:
+
+https://lh6.googleusercontent.com/-gT_hddL-wcc/UGrqseiiPLI/AAAAAAAAABY/hbZudt3qpJI/s707/Quick-Setup-Wizard-Start.png
+
+Once you have setup your Team, you will then...
+
+=== Assign each Character's Key Maps and ATG ===
 
 2. Assign each of your Characters on the top left box under "Characters" with every:
 	Class category you see under "Key Maps"
@@ -18,6 +28,8 @@ Setting up your Configuration is easier than you may think here within ISboxer..
 This is easily done by selecting the first character up in the top left box, and then dragging the appropriate Key Map(s) to them.
 
 Note: You can assign each character *EVERY* Class - Level - Spec to them, which will not mess anything up if you do. This will be easier for you if you like to change up specs later on.
+
+=== Adding the Virtual Mapped Key to Each Character Step ===
 
 3. Then as you're on each character, do note you will be *"Required"* to select the Virtual Mapped Keys tab in the bottom right of ISBoxer then assign accordingly:
 
@@ -53,7 +65,9 @@ If you were just starting out a group of Characters, you would do step one and t
 Once you have all of your characters Key Maps being assigned, their Virtual Mapped Keys Setup, you can move onto your "Character Sets" (Team) below.
 ----
 
-4. You will need to remove the FTL DPS Keys Key Map from any new team you create, this is ISBoxer's out of the box default DPS Key Map addded once you create a new team.
+=== Removing FTL DPS Keys Step from your Character Sets ===
+
+4. You will need to remove the FTL DPS Keys Key Map from any new team you create, this is ISBoxer's out of the box default DPS Key Map added once you create a new team.
 
 Removing the FTL DPS Keys under Key Maps is *"Required"* to utilize the powerful Virtual Combat System that ISBoxer offers:
 
