@@ -6,7 +6,9 @@
 
 Setting up your Configuration is easier than you may think here within ISboxer...
 
-This configuration is off the famous [http://isboxer.com/wiki/HOWTO:Configure_ISBoxer_like_a_pro HOWTO:Configure ISBoxer like a pro]
+This configuration is off the famous [http://isboxer.com/wiki/HOWTO:Configure_ISBoxer_like_a_pro HOWTO:Configure ISBoxer like a pro] which has been expanded around the core concept of having every Ability and Talent within ISBoxer's Game Helpers Macro Set. 
+
+In short, you will not have to add a Macro, need to know a macro as each macro you find is already assigned to each Key Map sorted accordingly to each Class Level and Spec.
 
 ----
 
