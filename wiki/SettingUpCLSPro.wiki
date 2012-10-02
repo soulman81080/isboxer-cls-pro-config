@@ -26,10 +26,15 @@ Once you have setup your Team, you will then...
 
 2. Assign each of your Characters on the top left box under "Characters" with every:
 	Class category you see under "Key Maps"
-	Any "Action Target Group"
+	and any [http://isboxer.com/wiki/Action_Target_Group Action Target Group] accordingly.
+
 This is easily done by selecting the first character up in the top left box, and then dragging the appropriate Key Map(s) to them.
 
 Note: You can assign each character *EVERY* Class - Level - Spec to them, which will not mess anything up if you do. This will be easier for you if you like to change up specs later on.
+
+Example of a Blood Death Knight have all Key Maps Assigned:
+
+https://lh3.googleusercontent.com/-zGcCXpfpA5M/UGru4ezXY_I/AAAAAAAAABo/cM59fhwte6E/s720/Blood-Deathknight-All-Key-Maps-Assigned.png
 
 === Adding the Virtual Mapped Key to Each Character Step ===
 
