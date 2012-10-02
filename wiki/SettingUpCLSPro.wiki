@@ -4,8 +4,9 @@
 
 Setting up your Configuration is easier than you may think here within ISboxer...
 
-SPECIAL NOTE: If this is TL;DR material that follows
+*SPECIAL NOTE:* This is TL;DR material that follows... Just warning the ones that are a bit too lazy on reading too much valuable information.
 
+----
 
 = Instructions =
 
@@ -16,9 +17,14 @@ SPECIAL NOTE: If this is TL;DR material that follows
 	Any "Action Target Group"
 This is easily done by selecting the first character up in the top left box, and then dragging the appropriate Key Map(s) to them.
 
-Note: You can assign each character EVERY Class - Level - Spec to them, which will not mess anything up if you do. This will be easier for you if you like to change up specs later on.
+Note: You can assign each character *EVERY* Class - Level - Spec to them, which will not mess anything up if you do. This will be easier for you if you like to change up specs later on.
 
-3. Then as you're on each character, do note you will be "Required" to select the Virtual Mapped Keys tab in the bottom right of ISBoxer then assign accordingly:
+3. Then as you're on each character, do note you will be *"Required"* to select the Virtual Mapped Keys tab in the bottom right of ISBoxer then assign accordingly:
+
+Example of where the Virtual Mapped Keys Tab is underneath each Character:
+
+https://lh4.googleusercontent.com/-PglV7JWIMkY/UGrlBTWAgVI/AAAAAAAAAA4/GzqPLAA7Nec/s681/Virtual-Mapped-Keys-Tab.png
+
 ----
 
 == Examples ==
@@ -29,6 +35,10 @@ Virtual Mapped Keys
 
 [Virtual Combat Key Map] is now [87-90 Blood DK Key Map]
 
+*Example Photo of Blood Death Knight Virtual Mapped Keys Tab:*
+
+https://lh6.googleusercontent.com/-eIxMt07CQdg/UGrkBH7D8yI/AAAAAAAAAAs/Xe7fy3PZrs0/s679/BloodDK-Virtual-Mapped-Key.png
+
 Example of a level 90 Monk in Windwalker Spec:
 
 	Virtual Mapped Keys
@@ -38,4 +48,15 @@ Example of a level 90 Monk in Windwalker Spec:
 
 As you see, the above, this will assign each Mapped Key to their appropriate Class Level and Spec group.
 
-If you were just starting out a group of Characters, you would do step one and two, then just update the second part of the Virtual Mapped Keys [1-10 Windwalker Monk Key Map] Once your monk levels to level 11, then you would change this Virtual Mapped Key to the next group: [11-20 Winkwalker Monk Key Map] and so on until max level.
+If you were just starting out a group of Characters, you would do step one and two, then just update the second part of the Virtual Mapped Keys [1-10 Windwalker Monk Key Map] Once your monk levels to level 11, then you would change this Virtual Mapped Key to the next group: [11-20 Windwalker Monk Key Map] and so on until max level.
+
+Once you have all of your characters Key Maps being assigned, their Virtual Mapped Keys Setup, you can move onto your "Character Sets" (Team) below.
+----
+
+4. You will need to remove the FTL DPS Keys Key Map from any new team you create, this is ISBoxer's out of the box default DPS Key Map addded once you create a new team.
+
+Removing the FTL DPS Keys under Key Maps is *"Required"* to utilize the powerful Virtual Combat System that ISBoxer offers:
+
+Example of a completed (Team's) Key Maps after removing FTL DPS Keys:
+
+https://lh3.googleusercontent.com/-HdTlehld3QI/UGrnKOFg0CI/AAAAAAAAABA/mJmocYYyVqs/s720/Character-Sets-Key-Maps-Changed.png
