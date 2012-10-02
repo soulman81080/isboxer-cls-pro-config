@@ -2,7 +2,9 @@
 
 = Introduction =
 
-Setting up your Configuration is easier than you may think here within ISboxer:
+Setting up your Configuration is easier than you may think here within ISboxer...
+
+SPECIAL NOTE: If this is TL;DR material that follows
 
 
 = Instructions =
