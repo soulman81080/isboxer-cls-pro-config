@@ -79,10 +79,43 @@ Once you have all of your characters Key Maps being assigned, their Virtual Mapp
 
 === Removing FTL DPS Keys Step from your Character Sets ===
 
-4. You will need to remove the FTL DPS Keys Key Map from any new team you create, this is ISBoxer's out of the box default DPS Key Map added once you create a new team.
+4. You will *NEED* to _remove_ the FTL DPS Keys Key Map from any new team you create, this is ISBoxer's out of the box default DPS Key Map added once you create a new team.
 
 Removing the FTL DPS Keys under Key Maps is *"Required"* to utilize the powerful Virtual Combat System that ISBoxer offers:
 
 Example of a completed (Team's) Key Maps after removing FTL DPS Keys:
 
 https://lh3.googleusercontent.com/-HdTlehld3QI/UGrnKOFg0CI/AAAAAAAAABA/mJmocYYyVqs/s720/Character-Sets-Key-Maps-Changed.png
+----
+
+=== Assigning Game Helpers (World of Warcraft) Macro Sets to Each Character ===
+
+5. This is simple enough, by clicking the Game Helpers minus (-) sign and expanding World of Warcraft and assigning each Macro Sets of
+
+  * Deathknight
+  * Druid
+  * Hunter
+  * Mage
+  * Monk
+  * Paladin
+  * Priest
+  * Rogue
+  * Shaman
+  * Warlock
+  * Warrior
+
+To their respected Character, so go ahead and select one. I'll select Deathknight Macro Set and assign as follows:
+
+https://lh6.googleusercontent.com/-YTd30SzEwiI/UGr18pulvII/AAAAAAAAACU/_mUM5XIKeBI/s755/Assign-Deathknight-to-DK-Character.png
+
+----
+
+Once you have all of the above done after creating each team, you'll be able to do the following quick and easy step
+
+6. Export to Innerspace... (CTRL+E)
+
+*Special Handicap Note:* If you don't have Innerspace running down by your System Clock, I would recommend firing up Innerspace :)
+
+7. Fire up your team by right clicking on Innerspace and selecting on ISBoxer Character Sets and finding your newly created team! 
+
+8. Enjoy your game!
