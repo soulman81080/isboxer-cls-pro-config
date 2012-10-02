@@ -1,0 +1,39 @@
+#summary Setting up your Configuration is easier than you may think here within ISboxer:
+
+= Introduction =
+
+Setting up your Configuration is easier than you may think here within ISboxer:
+
+
+= Instructions =
+
+1. Create a new using the Quick Setup Wizard
+
+2. Assign each of your Characters on the top left box under "Characters" with every:
+	Class category you see under "Key Maps"
+	Any "Action Target Group"
+This is easily done by selecting the first character up in the top left box, and then dragging the appropriate Key Map(s) to them.
+
+Note: You can assign each character EVERY Class - Level - Spec to them, which will not mess anything up if you do. This will be easier for you if you like to change up specs later on.
+
+3. Then as you're on each character, do note you will be "Required" to select the Virtual Mapped Keys tab in the bottom right of ISBoxer then assign accordingly:
+----
+
+== Examples ==
+
+Example of a level 90 Death Knight in Blood Spec:
+
+Virtual Mapped Keys
+
+[Virtual Combat Key Map] is now [87-90 Blood DK Key Map]
+
+Example of a level 90 Monk in Windwalker Spec:
+
+	Virtual Mapped Keys
+		
+[Virtual Combat Key Map] is now [87-90 Windwalker Monk Key Map]
+----
+
+As you see, the above, this will assign each Mapped Key to their appropriate Class Level and Spec group.
+
+If you were just starting out a group of Characters, you would do step one and two, then just update the second part of the Virtual Mapped Keys [1-10 Windwalker Monk Key Map] Once your monk levels to level 11, then you would change this Virtual Mapped Key to the next group: [11-20 Winkwalker Monk Key Map] and so on until max level.
