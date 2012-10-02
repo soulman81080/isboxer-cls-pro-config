@@ -22,7 +22,7 @@ https://lh6.googleusercontent.com/-gT_hddL-wcc/UGrqseiiPLI/AAAAAAAAABY/hbZudt3qp
 
 Once you have setup your Team, you will then...
 
-=== Assign each Character's Key Maps and ATG ===
+=== Assign each Character's Key Maps and [http://isboxer.com/wiki/Action_Target_Group ATG] ===
 
 2. Assign each of your Characters on the top left box under "Characters" with every:
 	Class category you see under "Key Maps"
