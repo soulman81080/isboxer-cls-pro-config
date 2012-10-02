@@ -34,7 +34,7 @@ Note: You can assign each character *EVERY* Class - Level - Spec to them, which 
 
 Example of a Blood Death Knight once all Key Maps have been assigned:
 
-https://lh3.googleusercontent.com/-zGcCXpfpA5M/UGru4ezXY_I/AAAAAAAAABo/cM59fhwte6E/s720/Blood-Deathknight-All-Key-Maps-Assigned.png
+https://lh3.googleusercontent.com/-mL-7VursBEI/UGrzZr_-ePI/AAAAAAAAACE/jn5jEw-Ipsk/s720/Blood-Deathknight-All-Key-Maps-Assigned.png
 
 === Adding the Virtual Mapped Key to Each Character Step ===
 
@@ -54,13 +54,17 @@ Example of a level 90 Death Knight in Blood Spec:
 
 In the first box select Virtual Combat and the second box select the appropriate Level Spec Class which should read as:
 
-[Virtual Combat Key Map] is now [87-90 Blood DK Key Map]
+{{{
+    Virtual Combat Key Map is now 87-90 Blood DK Key Map
+}}}
 
-When completed you'll see something like this:
+Example screenshot on the three steps required to complete each section of the Virtual Mapped Keys per character:
 
 https://lh3.googleusercontent.com/-p0cuDTBw7V4/UGrwtunGbiI/AAAAAAAAABw/-1PuE2C-obc/s875/DK-Virtual-Mapped-Keys.png
 
-*Example Photo of Blood Death Knight Virtual Mapped Keys Tab:*
+When completed you'll see something like this below
+
+*Example screenshot of Blood Death Knight Virtual Mapped Keys Tab:*
 
 https://lh6.googleusercontent.com/-eIxMt07CQdg/UGrkBH7D8yI/AAAAAAAAAAs/Xe7fy3PZrs0/s679/BloodDK-Virtual-Mapped-Key.png
 
