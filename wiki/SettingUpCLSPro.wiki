@@ -129,3 +129,15 @@ Once you have this all configured accordingly, below are notes on certain aspect
   * The IWT (Interact with Target) is configured to the ` key which can be changed to whatever key you normally use. This is required for the Melee ATG (Action Target Group) to work accordingly.
 
   * The hotkeys to spam are located on our CombatHotkeys Wiki Page, which you can change per your personal preference.
+
+  * All Macros are assigned to each Level Spec Class Key Map as follows:
+
+https://lh6.googleusercontent.com/-m7S0D1rr6kc/UGr6gEyrxVI/AAAAAAAAACk/cLYcwWEMS6g/s912/Macros-Assigned-to-Each-CLS.png
+
+Which you can remove, replace, or change any order of any macro that's used within here. However out of the box configuration works just as fine, but if you're picky on your rotation, this is up to you to modify. However support for anyone is limited here, so I would suggest using the [http://isboxer.com/forum/ ISBoxer Forums] to get a quicker answer.
+
+I'll *not* support any changes to the configuration if you've done any adding to and etc. If you require support on help with your configuration, please make sure you read [http://isboxer.com/forum/viewtopic.php?f=4&t=13 here] and make a thread [http://isboxer.com/forum/viewforum.php?f=4 here] accordingly for help with your current configuration that you've modified and feel "stuck."
+
+  * Support is limited on time constraints for myself, I'm only one person, work anywhere from 40-100 hours a week as a freelance developer, and I've provided this configuration "As-is" and will not support any modification
+
+  * I am *NOT* responsible for any of your characters dying, being camped by the opposing faction. Nor am I responsible for if your character decides to commit suicide in-game by jumping off a mountain side or pulls bosses to wipe the whole party/raid.
