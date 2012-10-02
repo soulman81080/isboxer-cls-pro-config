@@ -119,3 +119,13 @@ Once you have all of the above done after creating each team, you'll be able to 
 7. Fire up your team by right clicking on Innerspace and selecting on ISBoxer Character Sets and finding your newly created team! 
 
 8. Enjoy your game!
+
+----
+
+= Special Notes =
+
+Once you have this all configured accordingly, below are notes on certain aspects within this configuration:
+
+  * The IWT (Interact with Target) is configured to the ` key which can be changed to whatever key you normally use. This is required for the Melee ATG (Action Target Group) to work accordingly.
+
+  * The hotkeys to spam are located on our CombatHotkeys Wiki Page, which you can change per your personal preference.
