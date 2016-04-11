@@ -1,0 +1,10 @@
+# Introduction #
+
+Within this Key Map you will need to assign your own "personal preference" to whatever button(s) you like to spam for DPS, AoE, Interrupts, Stuns, Ground AoE, Cooldowns and etc...
+
+
+# Details #
+
+The configuration has the following set which can be changed to your own preference:
+
+![https://lh6.googleusercontent.com/-Zw3qxLwF60M/UGr4I5oIVMI/AAAAAAAAACc/e-tdH6wfVas/s720/Combat-Hotkeys-Assigned.png](https://lh6.googleusercontent.com/-Zw3qxLwF60M/UGr4I5oIVMI/AAAAAAAAACc/e-tdH6wfVas/s720/Combat-Hotkeys-Assigned.png)
